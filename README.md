@@ -10,7 +10,7 @@
 
 ### About Me
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who loves to build products. I have a passion for finance and am interested in the field of web3. In my free time, I enjoy solving Leetcode problems and discussing tech and businesses.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who loves to build products. I have a passion for finance and am interested in the field of web3. 
 
 
 
