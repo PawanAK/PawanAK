@@ -35,6 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 </td></tr></table>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanak&label=Profile%20views&color=0e75b6&style=flat" alt="pawanak" /> </p>
 
 <br/>  
 
