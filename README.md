@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+ii<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
 
 <h1 align="center"> Hi,  I'm Pawan Ajjar K 👋</h1>
@@ -59,6 +59,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PawanAK&layout=compact"/>
+
+[![](https://visitcount.itsvg.in/api?id=PawanAK&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanAk"/>
 
