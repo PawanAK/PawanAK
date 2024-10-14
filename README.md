@@ -75,3 +75,21 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+
+<table border="0">
+<tr border="0">
+<td width="50%" align="center">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pawanak&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+
+<td width="50%" align="center">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pawanak&theme=dark&hide_border=true" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pawanak&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+</td>
+</tr>
+</table>
+  
+                                                                                                                 
+                                                                                     
+<p align="center"><em>I love connecting with people so if you want to say hi, I'll be more happy to meet you!</em></p>
+<br>
