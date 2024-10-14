@@ -91,5 +91,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
                                                                                                                  
                                                                                      
-<p align="center"><em>I love connecting with people so if you want to say hi, I'll be more happy to meet you!</em></p>
+<p align="center"><em>I love connecting with people so if you want to say hi, I'll be more  happy to meet you!</em></p>
 <br>
